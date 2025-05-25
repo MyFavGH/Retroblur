@@ -38,7 +38,7 @@
 body {
     /* Set the wallpaper link below */
     /* vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv */
-    background: #000000;
+    background-image: https://hdqwalls.com/cyberpunk-2077-samurai-5k-wallpaper
     /* ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ */
     background-repeat: no-repeat;
     background-size: 100%;
@@ -123,8 +123,8 @@ body {
   background-color: rgba(30, 30, 30, 0.4)
 }
 .lyrics-lyrics-contentContainer {
-  --lyrics-color-active: #ffde00 !important;
-  --lyrics-color-inactive: #D56F80 !important;
+  --lyrics-color-active: #fd8993 !important;
+  --lyrics-color-inactive: #f06f65 !important;
   --lyrics-color-background: #1e1e1e !important;
   backdrop-filter: blur(14px) !important;
 }
